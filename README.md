@@ -6,7 +6,7 @@
 
 最近呢也在面试一些互联网企业的实习岗，深感除了项目之外，计算机基础课也相当重要，比如四大件（算法与数据结构、操作系统、计算机网络、计算机组成原理）以及数据库等。大厂比如腾讯其实对基础课很看重。
 
-这个[github链接](https://github.com/conanhujinming/tips_for_interview/blob/master/README-zh_CN.md)https://github.com/conanhujinming/tips_for_interview/blob/master/README-zh_CN.md里描述了一个本科航空航天研究生计算机专业的同学如何在硕士毕业时成为一个offer收割机的。据他所说最重要的就是：
+这个[github链接](https://github.com/conanhujinming/tips_for_interview/blob/master/README-zh_CN.md)里描述了一个本科航空航天研究生计算机专业的同学如何在硕士毕业时成为一个offer收割机的。据他所说最重要的就是：
 
 - 扎实的基础
 
