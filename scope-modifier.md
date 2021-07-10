@@ -97,6 +97,8 @@ static是静态修饰符：
 
 比如，我在`Scope.java`和`ClassMain.java`代码里最上一行，加上`package SF_exercise;`表示，这两个函数在一个包内，这个包就是SF_exercise文件夹，这两个类就是同一个包的类。
 
+[官方教程](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
+
 ![image-20210612115647806](https://gitee.com/umecjf/figures/raw/master/image-20210612115647806.png)
 
 

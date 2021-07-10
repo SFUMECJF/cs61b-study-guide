@@ -156,7 +156,25 @@ public class QuikMaths {
  }
 ```
 
+##  2  lab
 
+lab主要练习debug，我觉得DebugExercise1.java没有bug
+
+DebugExercise1.java重新写一下很简单的max和sum函数就可以。
+
+DebugExercise1.java中使用resume（从该断点执行一直到下次这个断点）和条件断点（达到某条件才停止）加快调试过程。
+
+解决bug就是找到`-387128732`把负号去掉。
+
+#### Application: IntLists
+
+这里主要是可以在debug的时候使用cs61b老师的插件，超级好用。理解这种`Non-destructive`和`destructive`的设计原理。
+
+建议使用递归的方法，而不是迭代的方法，迭代的方法要创建一个新的对象用于迭代，不如递归。
+
+### 实现两种函数
+
+这里需要考虑nullptr，空指针。怎么办呢。特判吧。
 
 ## 微信公众号
 
