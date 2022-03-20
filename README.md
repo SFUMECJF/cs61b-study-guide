@@ -2,6 +2,14 @@
 
 # cs61b开工指南
 
+## 更新！！！
+群友推出了完整的cs61a和cs61b的使用指南！欢迎大家提意见。
+感谢糸和月色成笺写的课程食用教程：
+61A
+[谷歌文档食用cs61a教程](https://docs.google.com/document/d/1pceaNK3_1mcFOPtK47YKqDl45u8kWCzayuVxP9mrWZg/edit?usp=sharing)
+61B
+[谷歌文档食用cs61a教程](https://docs.google.com/document/d/1lh1GyJfP4d99Kd2ubFWcHtzMgwW4M3aMDLqafMCGO7I/edit?usp=sharing)
+
 
 
 ## 1 为什么要学习cs61b
@@ -63,7 +71,7 @@ project2可以考虑略过，javafx真的难用.
 
 欢迎有想一起补cs基础的同学加入下方的群聊一起讨论，从数据结构开始从事互联网行业。
 
-
+在qq群里，大家**非常非常非常地活跃**，每天都有很多人在讨论！欢迎入群！
 
 qq群：913236113
 
