@@ -10,6 +10,7 @@
 61B
 [谷歌文档食用cs61a教程](https://docs.google.com/document/d/1lh1GyJfP4d99Kd2ubFWcHtzMgwW4M3aMDLqafMCGO7I/edit?usp=sharing)
 
+这两位群友的文档是共享文档，为防止恶意编辑，本仓库对两份文档做了备份。大家也可在这里查看：[]() []()
 
 
 ## 1 为什么要学习cs61b
