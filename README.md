@@ -8,7 +8,7 @@
 61A
 [谷歌文档食用cs61a教程](https://docs.google.com/document/d/1pceaNK3_1mcFOPtK47YKqDl45u8kWCzayuVxP9mrWZg/edit?usp=sharing)
 61B
-[谷歌文档食用cs61a教程](https://docs.google.com/document/d/1lh1GyJfP4d99Kd2ubFWcHtzMgwW4M3aMDLqafMCGO7I/edit?usp=sharing)
+[谷歌文档食用cs61b教程](https://docs.google.com/document/d/1lh1GyJfP4d99Kd2ubFWcHtzMgwW4M3aMDLqafMCGO7I/edit?usp=sharing)
 
 这两位群友的文档是共享文档，为防止恶意编辑，本仓库对两份文档做了备份。大家也可在这里查看：[61a备份2022-03-20](https://github.com/SFUMECJF/cs61b-study-guide/blob/main/A%20Guide%20For%20CS%2061A_%20Structure%20and%20Interpretatiof%20Computer%20Programs.pdf) [61b备份2-22-3-20](https://github.com/SFUMECJF/cs61b-study-guide/blob/main/A%20Guide%20For%20CS%2061A_%20Structure%20and%20Interpretatiof%20Computer%20Programs.pdf)
 
